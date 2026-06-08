@@ -67,7 +67,7 @@ In <a href="https://github.com/ppizarror/readme-generator/blob/master/readme.con
       "WIDTH": 200,
       "HEIGHT": 200
     },
-    "URL": "https://github.ppizarror.com/readme-generator/",
+    "URL": "https://ppizarror.github.io/readme-generator/",
     "URL_TITLE": "README.md Generator"
   },
   "AUTHOR": {
@@ -83,17 +83,17 @@ In <a href="https://github.com/ppizarror/readme-generator/blob/master/readme.con
   "DESCRIPTION": "Generate a README.md file from a configuration file",
   "BADGES": {
     "0": {
-      "IMAGE": "https://res.ppizarror.com/badges/author.svg",
+      "IMAGE": "https://img.shields.io/badge/Author-Pablo%20Pizarro%20R.-9f9f9f",
       "HREF": "https://ppizarror.com",
       "ALT": "@ppizarror"
     },
     "1": {
-      "IMAGE": "https://res.ppizarror.com/badges/licensemit.svg",
+      "IMAGE": "https://img.shields.io/badge/License-MIT-007ec6",
       "HREF": "https://opensource.org/licenses/MIT/",
       "ALT": "MIT License"
     },
     "2": {
-      "IMAGE": "https://res.ppizarror.com/badges/python27.svg",
+      "IMAGE": "https://img.shields.io/badge/Python-2.7-e05d44",
       "HREF": "https://www.python.org/downloads/",
       "ALT": "Python 2.7"
     }
@@ -107,7 +107,7 @@ In <a href="https://github.com/ppizarror/readme-generator/blob/master/readme.con
 ### Run README Generator
 
 <p align="center">
-  <img src="https://res.ppizarror.com/images/readme-generator/app.PNG" width="40%" />
+  <img src="https://raw.githubusercontent.com/ppizarror/readme-generator/master/.github/images/app.PNG" width="40%" />
 </p>
 
 Just run this Python app, load your file and click on ```Generate README.md``` button to create your new README file. You can also push your new readme to your github account by clicking on the icon next to the button.
